@@ -4,7 +4,7 @@ import djangocms_fil_admin_style
 
 
 INSTALL_REQUIREMENTS = [
-    'Django>=1.11,<3.3',
+    'Django>=1.11',
     'django-cms>=3.5.0',
 ]
 
